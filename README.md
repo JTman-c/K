@@ -17,3 +17,5 @@ qBittorrent  Download:[here](https://github.com/JTman-c/Kun_Files/releases/tag/0
 Video Acceleration Expansion视频加速拓展  Download:[here](https://github.com/JTman-c/Kun_Files/releases/tag/0.8)
 
 Windows11 Set up  Download:[here]  Download:[here](https://github.com/JTman-c/Kun_Files/releases/tag/0.9)
+
+File Converter文件转换器  Download:[here]  (https://github.com/JTman-c/Kun_Files/releases/tag/1.0)
