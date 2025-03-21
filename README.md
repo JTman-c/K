@@ -13,3 +13,5 @@ K-LiteCodecPack K-Lite编解码器包  Download:[here](https://github.com/JTman-
 LocalSend  Download:[here](https://github.com/JTman-c/Kun_Files/releases/tag/0.6)
 
 qBittorrent  Download:[here](https://github.com/JTman-c/Kun_Files/releases/tag/0.7)
+
+Video Acceleration Expansion视频加速拓展  Download:[here](https://github.com/JTman-c/Kun_Files/releases/tag/0.8)
