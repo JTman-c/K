@@ -26,3 +26,5 @@ Download:[here](https://github.com/JTman-c/Kun_Files/releases/tag/0.1)
 *LockHunter* 文件解锁器 Download:[here](https://github.com/JTman-c/Kun_Files/releases/tag/1.1)
 
 *_geek_*  Download:[here](https://github.com/JTman-c/Kun_Files/releases/tag/1.2)
+
+ Download:[here](https://pan.baidu.com/s/1ghYjJbOpTW2WxRM4uvcOJA?pwd=9191)
