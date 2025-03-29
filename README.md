@@ -41,3 +41,5 @@ Download:[here](https://github.com/JTman-c/Kun_Files/releases/tag/0.1)
 **_LosslessCut_**  Download:[here](https://pan.baidu.com/s/1Mqx4pXHPd8VFOIR9i677Dg?pwd=9191) 百度网盘   提取码: 9191 
 
 **_迅雷v 不限速_**   Download:[here](https://www.123912.com/s/cRYiTd-XMtfA?提取码:9191)  123网盘  提取码:9191
+
+**_LANDrop_**   Download:[here](https://www.123912.com/s/cRYiTd-zMtfA?提取码:9191)  123网盘  提取码:9191
