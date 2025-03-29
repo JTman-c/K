@@ -3,7 +3,7 @@
                                                        JTman
 
 ![Cxk坤哥GIF](https://github.com/user-attachments/assets/8cc3e17a-ae2e-4cdf-a1aa-b61ba80c9d70) ![鸡你太美GIF](https://github.com/user-attachments/assets/c1b50091-ed2a-49a6-926f-d7d6ee1d4dcb) 
-![Cxk坤哥GIF](https://github.com/user-attachments/assets/d0ee0311-e07c-4893-826e-25231209ffc6)
+
 
 **_blog_**:[here](https://kun.datatestvless.click/)                                                       
 **_My repositorle_**  :[HOME](https://github.com/JTman-c)   Astronomer
