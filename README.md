@@ -1,7 +1,9 @@
                                                         💖
                                                  *******KUN*******
                                                        JTman
-![ISeeYouGIF (2)](https://github.com/user-attachments/assets/93d97c03-5a68-40dd-b50f-b437b4271897)  
+
+![鸡你太美GIF](https://github.com/user-attachments/assets/c1b50091-ed2a-49a6-926f-d7d6ee1d4dcb)
+
 
 **_blog_**:[here](https://kun.datatestvless.click/)                                                       
 **_My repositorle_**  :[HOME](https://github.com/JTman-c)   Astronomer
