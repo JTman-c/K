@@ -5,8 +5,9 @@
 ![Cxk坤哥GIF](https://github.com/user-attachments/assets/8cc3e17a-ae2e-4cdf-a1aa-b61ba80c9d70) ![鸡你太美GIF](https://github.com/user-attachments/assets/c1b50091-ed2a-49a6-926f-d7d6ee1d4dcb) 
 
 
-**_blog_**:[here](https://kun.datatestvless.click/)                                                       
-**_My repositorle_**  :[HOME](https://github.com/JTman-c)   Astronomer
+### **_blog_**:[here](https://kun.datatestvless.click/) 
+
+###  **_My repositorle_**  :[HOME](https://github.com/JTman-c)   Astronomer
 
 Download:[here](https://github.com/JTman-c/Kun_Files/releases/tag/0.1)
 
