@@ -36,7 +36,9 @@ Download:[here](https://github.com/JTman-c/Kun_Files/releases/tag/0.1)
 
 **_voidtools_**  Download:[here](https://github.com/JTman-c/K/releases/tag/1.4)
 
-- [ ]  ⛄🦌🫦 **_Network disk script , Use with IDM_** 👣 [(**_百度_**)](https://sswpdd.xyz/doc/doc.html)  - 👣 [(**_123网盘_**)](https://greasyfork.org/zh-CN/scripts/513528-123-%E4%BA%91%E7%9B%98%E4%BC%9A%E5%91%98%E9%9D%92%E6%98%A5%E7%89%88)
+  ⛄🦌🫦 **_Network disk script , Use with IDM_** 👣 [(**_百度_**)](https://sswpdd.xyz/doc/doc.html)  - 👣 [(**_123网盘_**)](https://greasyfork.org/zh-CN/scripts/513528-123-%E4%BA%91%E7%9B%98%E4%BC%9A%E5%91%98%E9%9D%92%E6%98%A5%E7%89%88)
+  
+- [ ]  Download:[here](https://github.com/JTman-c/K/releases/tag/1.5)
 
 **_格式工厂_**  Download:[here](https://pan.baidu.com/s/1ghYjJbOpTW2WxRM4uvcOJA?pwd=9191)  百度网盘  提取码: 9191
 
