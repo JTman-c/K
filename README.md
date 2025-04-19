@@ -70,7 +70,7 @@ Download:[here](https://github.com/JTman-c/Kun_Files/releases/tag/0.1)
 
 **_迅雷v 不限速_**   Download:[here](https://www.123912.com/s/cRYiTd-XMtfA?提取码:9191)  123网盘  提取码:9191
 
-**_LANDrop_**   Download:[here](https://www.123912.com/s/cRYiTd-zMtfA?提取码:9191)  123网盘  提取码:9191
+**_LANDrop_**   Download:[here](https://www.123912.com/s/cRYiTd-CZtfA?提取码:9191)  123网盘  提取码:9191
 
 **_VX_**   Download:[here](https://www.123912.com/s/cRYiTd-LMtfA?提取码:9191)  123网盘  提取码:9191
 
