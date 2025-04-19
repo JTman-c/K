@@ -5,7 +5,7 @@
 ![Cxk坤哥GIF](https://github.com/user-attachments/assets/8cc3e17a-ae2e-4cdf-a1aa-b61ba80c9d70) ![鸡你太美GIF](https://github.com/user-attachments/assets/c1b50091-ed2a-49a6-926f-d7d6ee1d4dcb) 
 
 
-### **_blog_**:[here](https://kun.datatestvless.click/) 
+### **_Blog_**:[here](https://kun.datatestvless.click/) 
 
 ###  **_My repositorle_**  :[HOME](https://github.com/JTman-c)   Astronomer
 
@@ -47,6 +47,7 @@ Download:[here](https://github.com/JTman-c/Kun_Files/releases/tag/0.1)
       
 </details>
 
+![]()
 
 **_格式工厂_**  Download:[here](https://pan.baidu.com/s/1ghYjJbOpTW2WxRM4uvcOJA?pwd=9191)  百度网盘  提取码: 9191
 
@@ -58,13 +59,17 @@ Download:[here](https://github.com/JTman-c/Kun_Files/releases/tag/0.1)
 
 **_VX_**   Download:[here](https://www.123912.com/s/cRYiTd-LMtfA?提取码:9191)  123网盘  提取码:9191
 
-**_Adobe Acrobat FPD_**   Download:[here](https://www.123912.com/s/cRYiTd-VMtfA?提取码:9191)  123网盘  提取码:9191
+### **_Adobe_**
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXLmaMD16JPZBZz12YP2LYhwjsg3VrP2iFCg&s)
+
+<details><summary><strong> [点击展开] ⛄🦌🫦  _Adobe~</strong></summary>
 
 **_Adobe Creative Cloud_**  Download:[here](https://www.123912.com/s/cRYiTd-YZtfA?提取码:9191)   123网盘  提取码:9191
 
 **_Adobe 21_**  Download:[here](https://www.123912.com/s/cRYiTd-FZtfA?提取码:9191)  123网盘  提取码:9191
 
-
+**_Adobe Acrobat FPD_**   Download:[here](https://www.123912.com/s/cRYiTd-VMtfA?提取码:9191)  123网盘  提取码:9191
 
 
 
