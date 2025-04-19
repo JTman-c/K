@@ -62,7 +62,7 @@ Download:[here](https://github.com/JTman-c/Kun_Files/releases/tag/0.1)
 
 **_Adobe 25_**  Download:[here](https://www.123912.com/s/cRYiTd-JZtfA?提取码:9191)   123网盘  提取码:9191
 
-**_Adobe 21_**  Download:[here] (https://www.123912.com/s/cRYiTd-FZtfA?提取码:9191)  123网盘  提取码:9191
+**_Adobe 21_**  Download:[here](https://www.123912.com/s/cRYiTd-FZtfA?提取码:9191)  123网盘  提取码:9191
 
 
 
