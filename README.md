@@ -52,6 +52,8 @@ Download:[here](https://github.com/JTman-c/Kun_Files/releases/tag/0.1)
 
 **_voidtools_**  Download:[here](https://github.com/JTman-c/K/releases/tag/1.4)
 
+**_Uninstall Tool_**  Download:[here](https://github.com/JTman-c/K/releases/tag/1.6)
+
 <details><summary><strong> [点击展开] ⛄🦌🫦  _Network disk script~</strong></summary>
 
 **_Use with IDM_**
