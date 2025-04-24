@@ -78,6 +78,8 @@ Download:[here](https://github.com/JTman-c/Kun_Files/releases/tag/0.1)
 
 **_VX_**   Download:[here](https://www.123912.com/s/cRYiTd-LMtfA?提取码:9191)  123网盘  提取码:9191
 
+**_卸载工具_**   Download:[here](https://www.123912.com/s/cRYiTd-wLtfA?提取码:9191)   123网盘  提取码:9191
+
 
 
 
