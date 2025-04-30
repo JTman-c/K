@@ -16,6 +16,8 @@
 
 <details><summary><strong> [点击展开] ⛄🦌🫦  _Adobe~</strong></summary>
 
+**_GenP_**  Download:[here](https://github.com/JTman-c/K/releases/tag/1.7)
+
 **_Adobe Creative Cloud_**  Download:[here](https://www.123912.com/s/cRYiTd-YZtfA?提取码:9191)   123网盘  提取码:9191
 
 **_Adobe 21_**  Download:[here](https://www.123912.com/s/cRYiTd-FZtfA?提取码:9191)  123网盘  提取码:9191
@@ -29,8 +31,6 @@
 Download:[here](https://github.com/JTman-c/Kun_Files/releases/tag/0.1)
 
 **_IDM_**  Download:[here](https://github.com/JTman-c/Kun_Files/releases/tag/0.2)
-
-**_GenP_**  Download:[here](https://github.com/JTman-c/K/releases/tag/1.7)
 
 **_RAR_**  Download:[here](https://github.com/JTman-c/Kun_Files/releases/tag/0.3)
 
