@@ -30,6 +30,8 @@ Download:[here](https://github.com/JTman-c/Kun_Files/releases/tag/0.1)
 
 **_IDM_**  Download:[here](https://github.com/JTman-c/Kun_Files/releases/tag/0.2)
 
+**_GenP_**  Download:[here](https://github.com/JTman-c/K/releases/tag/1.7)
+
 **_RAR_**  Download:[here](https://github.com/JTman-c/Kun_Files/releases/tag/0.3)
 
 **_Drive_Icon_Manager_** 驱动器图标管理器__  Download:[here](https://github.com/JTman-c/Kun_Files/releases/tag/0.4)
