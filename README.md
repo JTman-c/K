@@ -62,6 +62,8 @@ Download:[here](https://github.com/JTman-c/Kun_Files/releases/tag/0.1)
 
 **_Optimizer_**  Download:[here](https://github.com/JTman-c/K/releases/tag/1.9)
 
+**_Dism++_**  Download:[here](https://github.com/JTman-c/K/releases/tag/2.0)
+
 <details><summary><strong> [点击展开] ⛄🦌🫦  _Network disk script~</strong></summary>
 
 **_Use with IDM_**
