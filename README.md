@@ -60,9 +60,7 @@
 
 **_分区助手_**  Download:[here](https://github.com/JTman-c/K/releases/tag/1.8)
 
-**_Optimizer_**  Download:[here](https://github.com/JTman-c/K/releases/tag/1.9)
-
-**_Dism++_**  Download:[here](https://github.com/JTman-c/K/releases/tag/2.0)
+**_Dism++_**  Download:[here](https://github.com/JTman-c/K/releases/tag/1.9)
 
 <details><summary><strong> [点击展开] ⛄🦌🫦  _Network disk script~</strong></summary>
 
