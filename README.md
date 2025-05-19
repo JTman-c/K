@@ -55,7 +55,7 @@
 
 | 工具名称       | 功能描述                  | 下载链接                                  |
 |----------------|---------------------------|-------------------------------------------|
-| RAR压缩工具    | 文件压缩/解压缩          | [*here*](https://github.com/JTman-c/Kun_Files/releases/tag/0.3) |
+| RAR压缩工具    | 无广/解压缩          | [*here*](https://github.com/JTman-c/Kun_Files/releases/tag/0.3) |
 | Dism++         | Windows系统优化        | [*here*](https://github.com/JTman-c/K/releases/tag/1.9) |
 | 分区助手       | 硬盘分区管理            | [*here*](https://github.com/JTman-c/K/releases/tag/1.8) |
 
@@ -105,6 +105,7 @@
 |----------------|---------------------------|-------------------------------------------|
 | geek卸载器     | 彻底卸载软件              | [*here*](https://github.com/JTman-c/Kun_Files/releases/tag/1.2) |
 | Uninstall Tool | 高级软件卸载工具          | [*here*](https://github.com/JTman-c/K/releases/tag/1.6) |
+| 🗑️合集         | 卸载 and Registry Cleaner   | [*here*](https://www.123912.com/s/cRYiTd-wLtfA?提取码:9191) |
 
 </details>
 
@@ -130,7 +131,7 @@
 |---------------------|---------------------------|-------------------------------------------|--------|
 | Drive Icon Manager  | 自定义驱动器图标          | [*here*](https://github.com/JTman-c/Kun_Files/releases/tag/0.4) | -      |
 | LANDrop             | 跨平台局域网传输工具      | [*here*](https://www.123912.com/s/cRYiTd-CZtfA) | 9191   |
-| VX                  | 视频编辑工具              | [*here*](https://www.123912.com/s/cRYiTd-LMtfA) | 9191   |
+| WeChat              | 防撤回                  | [*here*](https://www.123912.com/s/cRYiTd-LMtfA) | 9191   |
 
 </details>
 
