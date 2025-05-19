@@ -44,7 +44,7 @@
 | 工具名称             | 下载链接                                  | 提取码 |
 |----------------------|-------------------------------------------|--------|
 | qBittorrent          | [*here*](https://github.com/JTman-c/Kun_Files/releases/tag/0.7) | -      |
-| 迅雷v不限速版         | [*here*](https://www.123912.com/s/cRYiTd-XMtfA) | 9191   |
+| 迅雷v不限速版         | [*here*](https://github.com/JTman-c/K/releases/tag/2.1) | -   |
 
 </details>
 
