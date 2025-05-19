@@ -19,6 +19,8 @@
 |------------------------------|-------------------------------------------|
 | 💖 **Windows Office**        | [*here*](https://github.com/JTman-c/K/releases/tag/2.0) |
 | 💖 **IDM (Internet Download Manager)** | [*here*](https://github.com/JTman-c/Kun_Files/releases/tag/0.2) |
+| 💖 **Clash Verge Rev**       | [*here*](https://github.com/JTman-c/K/releases/tag/2.2) |
+| 💖 **v2rayN**                | [*here*](https://github.com/JTman-c/K/releases/tag/1.3) |
 
 
 ## 🎨 **Adobe全家桶专区**
