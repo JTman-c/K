@@ -24,7 +24,7 @@
 | 💖 **Clash Verge  and  V2rayN**       | [*here*](https://github.com/JTman-c/K/releases/tag/2.2) |
 | 💖 **Cloudflare 部署项目**    | [*here*](https://github.com/JTman-c/K/releases/tag/2.4) |
 | 💖 **GKD**                   | [*here*](https://github.com/JTman-c/K/releases/tag/2.3) |
-
+| 💖 **Steam Tools**                 | [*here*](https://github.com/JTman-c/K/releases/tag/2.5) |
 
 ## 🎨 **Adobe全家桶专区**
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXLmaMD16JPZBZz12YP2LYhwjsg3VrP2iFCg&s)
