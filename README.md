@@ -63,6 +63,8 @@
 | RAR压缩工具    | 无广/解压缩          | [*here*](https://github.com/JTman-c/Kun_Files/releases/tag/0.3) |
 | Dism++         | Windows系统优化        | [*here*](https://github.com/JTman-c/K/releases/tag/1.9) |
 | 分区助手       | 硬盘分区管理            | [*here*](https://github.com/JTman-c/K/releases/tag/1.8) |
+| DirectX_Repair   |   DirectX Repair    | [*here*](https://github.com/JTman-c/K/releases/tag/2.6) |
+| Windows11轻松设置    | Disabling DW and system updates      | [*here*](https://github.com/JTman-c/K/releases/tag/0.9) |
 
 </details>
 
