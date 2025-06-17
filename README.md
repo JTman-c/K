@@ -100,7 +100,8 @@
 | Everything     | 超快文件搜索工具          | [*here*](https://github.com/JTman-c/K/releases/tag/1.4) | -      |
 | LockHunter     | 文件解锁神器              | [*here*](https://github.com/JTman-c/Kun_Files/releases/tag/1.1) | -      |
 | File Converter | 文件格式转换工具          | [*here*](https://github.com/JTman-c/Kun_Files/releases/tag/1.0) | -      |
-| 格式工厂              | 全能格式转换工具        | [*here*](https://www.123912.com/s/cRYiTd-TfifA) | 9191   |
+| 格式工厂        | 全能格式转换工具        | [*here*](https://www.123912.com/s/cRYiTd-TfifA) | 9191   |
+| Icaros       | 缩略图显示        | [*here*](https://github.com/JTman-c/K/releases/tag/2.7) | -      |
 
 </details>
 
